@@ -1,3 +1,8 @@
+// Given two arrays, val[] and wt[], representing the values and weights of item respectively, and an integer capacity representing 
+// the maximum weight a knapsack can hold, we have to determine the maximum total value that can be achieved by putting the items in 
+// the knapsack without exceeding its capacity.
+// Items can also be taken in fractional parts if required.
+
 #include<bits/stdc++.h>
 using namespace std;
 
